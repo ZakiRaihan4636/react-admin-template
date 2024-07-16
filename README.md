@@ -15,7 +15,29 @@ A free and open-source React Admin template built with Free Dash, a popular and 
 You can view a live demo of this template at [https://your-demo-url.com](https://your-demo-url.com)
 
 ## Installation
-To use this template, simply clone this repository and run `npm install` or `yarn install` to install the dependencies.
+### Prerequisites
+
+* Node.js (version 14 or higher)
+* npm (version 6 or higher) or yarn (version 1.22 or higher)
+
+### Install using npm
+
+1. Clone this repository: `git clone https://github.com/your-username/your-repo-name.git`
+2. Change into the project directory: `cd your-repo-name`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+
+### Install using yarn
+
+1. Clone this repository: `git clone https://github.com/your-username/your-repo-name.git`
+2. Change into the project directory: `cd your-repo-name`
+3. Install the dependencies: `yarn install`
+4. Start the development server: `yarn start`
+
+### Build and deploy
+
+1. Run `npm run build` or `yarn build` to build the application
+2. Deploy the built application to your preferred hosting platform
 
 ## Usage
 This template is designed to be easily customizable and integratable with your existing backend. You can modify the components and layouts to fit your needs.
